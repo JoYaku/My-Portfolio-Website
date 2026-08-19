@@ -1571,7 +1571,7 @@ function Footer({ accent }) {
 // APP
 // ============================================
 
-const HERO_IMAGE_URL = '/spark/app/app_17cds653gcf/runtime/api/v1/storage/object/bucket_aadkquyojokeg_static/static%2Faadkqu5ulm4ss_ve_miaoda';
+const HERO_IMAGE_URL = "assets/hero-bg.jpg";
 
 function App() {
   const [t, setTweak] = useTweaks(TWEAK_DEFAULTS);
