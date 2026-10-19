@@ -409,7 +409,7 @@ const OTHER_PROJECTS = [
     icon: '◉'
   }
 ];
-   {
+  {
     id: 'p6',
     name: 'Orbloom',
     category: 'Game / Personal Project',
