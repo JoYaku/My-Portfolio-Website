@@ -407,8 +407,7 @@ const OTHER_PROJECTS = [
     desc: 'グループプロジェクトを通して、プロジェクトを計画・管理するための考え方を学びました。',
     tech: ['WBS', 'Persona', 'ヒアリング', 'KPI'],
     icon: '◉'
-  }
-];
+  },
   {
     id: 'p6',
     name: 'Orbloom',
