@@ -409,6 +409,16 @@ const OTHER_PROJECTS = [
     icon: '◉'
   }
 ];
+   {
+    id: 'p6',
+    name: 'Orbloom',
+    category: 'Game / Personal Project',
+    desc: 'ピンボールをモチーフにした放置系ゲーム。ボールの自動射出や釘の強化、レア度アップなどのアップグレードシステムを実装しました。',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    icon: '◈',
+    demoUrl: 'https://joyaku.github.io/orbloom/game.html'
+  }
+];
 
 // ============================================
 // ICONS
